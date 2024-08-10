@@ -1,0 +1,20 @@
+
+HTML= Hyper Text Markup Language
+
+=>tag
+
+<></>
+</>
+
+p tag => <p></p>
+h tag => <h1></h1> <h2></h2> <h3></h3> <h4></h4> <h5></h5> <h6></h6>
+b tag => <b></b>
+br tag => <br/>
+del tag => <del></del>
+img tag => <img>
+ul/ol=>li
+
+blablabla
+  1.djwwdlj
+  2.jwkjbcw
+  3.dgugduw
